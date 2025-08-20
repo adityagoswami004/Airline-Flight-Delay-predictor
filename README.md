@@ -1,4 +1,3 @@
-# Airline-Flight-Delay-predictor
 # Airline Flight Delay Predictor
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,7 +40,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/airline-flight-delay-predictor.git](https://github.com/your-username/airline-flight-delay-predictor.git)
+   git clone [https://github.com/adityagoswami004/Airline-Flight-Delay-predictor.git)
    cd airline-flight-delay-predictor
    ```
 
@@ -81,6 +80,12 @@ Follow the on-screen prompts to enter a carrier and departure time to get a pred
 The model was evaluated on the training dataset and achieved the following results:
 
 - **Accuracy:** 93%
+-  **Confusion Matrix:**
+
+  ![Confusion Matrix](./confusion_matrix.png)
+
+This indicates a strong performance in correctly identifying both delayed and on-time flights.
+
 ---
 
 ## 💡 Future Improvements
