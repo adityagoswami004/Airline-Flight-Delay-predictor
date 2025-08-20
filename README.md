@@ -40,8 +40,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/adityagoswami004/Airline-Flight-Delay-predictor.git)
-   cd airline-flight-delay-predictor
+   https://github.com/adityagoswami004/Airline-Flight-Delay-predictor.git
+   
    ```
 
 2. **Create and activate a virtual environment (recommended):**
