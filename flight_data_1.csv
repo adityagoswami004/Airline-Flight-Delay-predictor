@@ -1,0 +1,1271 @@
+Flight,Carrier,DepTime,Delay
+SG973,SpiceJet,19:15,Yes
+AI911,Air India,12:20,No
+6E388,IndiGo,06:40,No
+AI951,Air India,11:40,No
+AI463,Air India,01:10,No
+6E719,IndiGo,23:25,Yes
+SG967,SpiceJet,07:30,No
+SG936,SpiceJet,03:30,No
+IX668,Air India Express,21:40,Yes
+SG555,SpiceJet,00:30,No
+6E563,IndiGo,01:10,No
+IX673,Air India Express,12:45,No
+SG485,SpiceJet,16:50,No
+SG332,SpiceJet,09:10,Yes
+AI536,Air India,07:10,No
+QP836,Akasa Air,16:20,No
+AI888,Air India,15:45,No
+SG104,SpiceJet,06:30,No
+AI246,Air India,16:30,No
+IX220,Air India Express,23:40,Yes
+6E649,IndiGo,23:15,Yes
+AI651,Air India,23:35,Yes
+UK614,Vistara,04:25,No
+6E291,IndiGo,09:40,No
+AI983,Air India,05:50,No
+SG796,SpiceJet,11:10,No
+SG979,SpiceJet,15:55,No
+6E196,IndiGo,14:25,No
+QP414,Akasa Air,03:40,No
+QP683,Akasa Air,01:50,No
+QP311,Akasa Air,09:15,No
+AI281,Air India,09:05,No
+AI641,Air India,15:35,No
+6E799,IndiGo,04:55,No
+QP747,Akasa Air,02:10,No
+6E148,IndiGo,02:40,No
+SG216,SpiceJet,11:15,No
+QP159,Akasa Air,21:20,Yes
+SG765,SpiceJet,15:20,No
+IX876,Air India Express,10:25,No
+UK299,Vistara,22:45,Yes
+IX831,Air India Express,09:40,No
+UK780,Vistara,02:00,No
+AI802,Air India,11:25,No
+AI484,Air India,08:50,No
+UK784,Vistara,19:15,Yes
+QP130,Akasa Air,15:25,No
+6E991,IndiGo,03:35,No
+IX281,Air India Express,10:55,No
+AI443,Air India,19:50,Yes
+QP629,Akasa Air,17:25,No
+6E562,IndiGo,17:55,No
+SG479,SpiceJet,03:00,No
+SG374,SpiceJet,17:20,No
+IX520,Air India Express,11:20,No
+QP962,Akasa Air,18:50,Yes
+SG762,SpiceJet,10:15,Yes
+SG969,SpiceJet,00:30,No
+6E837,IndiGo,13:50,No
+6E871,IndiGo,15:45,No
+6E556,IndiGo,06:30,No
+SG446,SpiceJet,09:05,Yes
+IX148,Air India Express,04:20,No
+IX446,Air India Express,09:30,Yes
+AI556,Air India,19:15,Yes
+QP484,Akasa Air,13:30,No
+6E769,IndiGo,11:55,No
+SG140,SpiceJet,10:50,Yes
+SG225,SpiceJet,21:15,Yes
+AI398,Air India,20:45,Yes
+IX213,Air India Express,08:45,No
+SG695,SpiceJet,01:10,No
+6E624,IndiGo,11:20,No
+QP688,Akasa Air,08:25,No
+SG210,SpiceJet,08:35,Yes
+AI407,Air India,09:55,Yes
+SG622,SpiceJet,16:15,No
+IX407,Air India Express,02:45,No
+IX569,Air India Express,07:05,No
+UK607,Vistara,18:00,Yes
+IX386,Air India Express,14:25,No
+6E858,IndiGo,08:35,No
+AI101,Air India,01:50,No
+IX883,Air India Express,04:20,No
+SG119,SpiceJet,13:55,No
+SG435,SpiceJet,15:20,No
+UK700,Vistara,22:05,Yes
+AI819,Air India,23:25,Yes
+QP283,Akasa Air,16:15,No
+SG290,SpiceJet,13:20,No
+6E324,IndiGo,18:00,Yes
+6E294,IndiGo,10:45,No
+IX248,Air India Express,05:25,No
+AI576,Air India,04:20,No
+SG797,SpiceJet,12:25,No
+6E666,IndiGo,09:50,No
+SG204,SpiceJet,07:50,No
+IX668,Air India Express,16:50,No
+AI641,Air India,20:40,Yes
+QP551,Akasa Air,07:10,No
+SG840,SpiceJet,04:05,No
+AI959,Air India,13:10,No
+QP993,Akasa Air,09:40,No
+IX383,Air India Express,13:30,No
+6E305,IndiGo,22:15,Yes
+AI914,Air India,13:40,No
+SG719,SpiceJet,06:20,No
+IX135,Air India Express,13:15,No
+6E443,IndiGo,06:05,No
+QP290,Akasa Air,14:35,No
+QP414,Akasa Air,23:45,Yes
+QP563,Akasa Air,12:55,No
+IX536,Air India Express,22:30,Yes
+6E565,IndiGo,22:55,Yes
+UK925,Vistara,11:20,No
+SG446,SpiceJet,19:05,Yes
+6E652,IndiGo,09:50,No
+AI756,Air India,00:30,No
+6E793,IndiGo,14:20,No
+6E220,IndiGo,15:55,No
+AI666,Air India,12:20,No
+SG886,SpiceJet,15:55,No
+6E101,IndiGo,17:20,No
+6E838,IndiGo,23:05,Yes
+IX148,Air India Express,02:50,No
+AI443,Air India,16:40,No
+IX215,Air India Express,14:55,No
+6E999,IndiGo,19:15,Yes
+6E934,IndiGo,15:20,No
+SG699,SpiceJet,12:55,No
+AI425,Air India,19:00,Yes
+AI554,Air India,03:10,No
+6E819,IndiGo,14:40,No
+6E354,IndiGo,04:25,No
+IX186,Air India Express,01:50,No
+6E726,IndiGo,10:35,No
+AI888,Air India,12:35,No
+QP768,Akasa Air,18:55,Yes
+SG551,SpiceJet,17:55,Yes
+6E875,IndiGo,10:50,No
+SG674,SpiceJet,17:40,No
+UK245,Vistara,11:45,No
+IX278,Air India Express,16:20,No
+UK488,Vistara,10:50,No
+AI101,Air India,09:05,No
+AI571,Air India,23:15,Yes
+SG969,SpiceJet,20:45,Yes
+SG591,SpiceJet,08:35,Yes
+QP674,Akasa Air,01:50,No
+SG523,SpiceJet,03:10,No
+6E342,IndiGo,16:10,No
+6E104,IndiGo,08:40,No
+UK846,Vistara,04:55,No
+AI337,Air India,17:40,No
+IX248,Air India Express,01:05,No
+SG553,SpiceJet,09:10,Yes
+AI595,Air India,05:15,No
+6E648,IndiGo,01:25,No
+AI259,Air India,05:25,No
+QP263,Akasa Air,15:45,No
+IX847,Air India Express,09:40,No
+IX259,Air India Express,03:10,No
+IX762,Air India Express,11:05,No
+AI323,Air India,22:30,Yes
+AI191,Air India,13:55,No
+SG798,SpiceJet,23:45,Yes
+SG632,SpiceJet,06:20,No
+AI337,Air India,11:55,No
+UK989,Vistara,03:45,No
+SG717,SpiceJet,09:30,Yes
+SG551,SpiceJet,11:00,No
+6E443,IndiGo,16:20,No
+6E294,IndiGo,15:35,No
+UK504,Vistara,01:30,No
+QP223,Akasa Air,05:50,No
+SG847,SpiceJet,18:50,Yes
+IX215,Air India Express,07:50,No
+UK975,Vistara,07:05,No
+SG484,SpiceJet,14:20,No
+AI959,Air India,14:10,No
+UK471,Vistara,01:30,No
+AI903,Air India,07:25,No
+SG632,SpiceJet,15:55,No
+IX118,Air India Express,17:35,No
+AI387,Air India,19:15,Yes
+QP130,Akasa Air,13:00,No
+AI310,Air India,05:55,No
+AI253,Air India,11:50,No
+UK925,Vistara,05:00,No
+UK347,Vistara,01:40,No
+QP223,Akasa Air,09:55,No
+AI572,Air India,14:50,No
+AI888,Air India,07:45,No
+IX137,Air India Express,21:45,Yes
+AI484,Air India,11:35,No
+QP414,Akasa Air,10:25,No
+QP159,Akasa Air,19:50,Yes
+AI802,Air India,09:30,No
+QP688,Akasa Air,17:40,No
+6E556,IndiGo,16:15,No
+6E388,IndiGo,06:40,No
+6E649,IndiGo,18:35,Yes
+SG193,SpiceJet,18:50,Yes
+QP139,Akasa Air,12:20,No
+SG936,SpiceJet,05:50,No
+UK989,Vistara,07:15,No
+AI443,Air India,02:45,No
+6E666,IndiGo,02:00,No
+IX908,Air India Express,13:00,No
+IX569,Air India Express,20:00,Yes
+SG303,SpiceJet,16:10,No
+6E294,IndiGo,06:05,No
+IX248,Air India Express,00:35,No
+AI323,Air India,13:25,No
+6E793,IndiGo,13:55,No
+AI425,Air India,13:55,No
+6E443,IndiGo,05:25,No
+6E342,IndiGo,10:05,No
+QP139,Akasa Air,12:15,No
+AI797,Air India,05:50,No
+QP888,Akasa Air,04:20,No
+AI310,Air India,07:40,No
+SG551,SpiceJet,18:15,Yes
+UK607,Vistara,19:25,Yes
+IX213,Air India Express,20:00,Yes
+6E837,IndiGo,18:50,Yes
+6E624,IndiGo,02:30,No
+IX520,Air India Express,16:35,No
+AI860,Air India,06:45,No
+SG797,SpiceJet,07:50,No
+QP222,Akasa Air,13:40,No
+QP290,Akasa Air,23:15,Yes
+IX692,Air India Express,08:35,No
+SG847,SpiceJet,06:40,No
+UK747,Vistara,17:50,No
+6E220,IndiGo,17:35,No
+IX386,Air India Express,05:40,No
+6E719,IndiGo,01:50,No
+AI919,Air India,01:55,No
+AI641,Air India,11:45,No
+AI576,Air India,04:25,No
+UK628,Vistara,00:40,No
+AI819,Air India,14:25,No
+IX847,Air India Express,21:55,Yes
+QP857,Akasa Air,10:20,No
+UK486,Vistara,05:40,No
+QP993,Akasa Air,23:25,Yes
+SG632,SpiceJet,03:15,No
+6E226,IndiGo,23:10,Yes
+IX537,Air India Express,03:20,No
+AI741,Air India,06:55,No
+IX220,Air India Express,15:55,No
+UK159,Vistara,15:30,No
+IX847,Air India Express,03:30,No
+UK471,Vistara,14:20,No
+UK846,Vistara,10:15,No
+IX417,Air India Express,08:00,No
+UK607,Vistara,01:05,No
+UK975,Vistara,15:15,No
+6E342,IndiGo,15:50,No
+QP888,Akasa Air,23:20,Yes
+AI571,Air India,01:05,No
+SG847,SpiceJet,00:10,No
+SG204,SpiceJet,16:15,No
+SG936,SpiceJet,09:40,Yes
+6E941,IndiGo,12:20,No
+IX892,Air India Express,08:25,No
+AI666,Air India,14:15,No
+AI101,Air India,05:30,No
+6E794,IndiGo,06:15,No
+IX563,Air India Express,23:00,Yes
+6E649,IndiGo,10:10,No
+IX816,Air India Express,04:55,No
+AI443,Air India,07:05,No
+IX668,Air India Express,04:25,No
+IX569,Air India Express,14:00,No
+6E328,IndiGo,01:05,No
+AI101,Air India,05:00,No
+UK347,Vistara,12:00,No
+SG607,SpiceJet,15:55,No
+IX249,Air India Express,20:45,Yes
+6E652,IndiGo,00:30,No
+AI802,Air India,11:45,No
+6E794,IndiGo,10:45,No
+QP414,Akasa Air,01:25,No
+6E875,IndiGo,16:20,No
+IX259,Air India Express,09:20,No
+6E837,IndiGo,10:05,No
+AI259,Air India,23:15,Yes
+6E941,IndiGo,16:30,No
+6E294,IndiGo,08:05,No
+6E957,IndiGo,12:35,No
+6E769,IndiGo,05:40,No
+QP993,Akasa Air,15:50,No
+QP222,Akasa Air,04:40,No
+IX262,Air India Express,05:30,No
+AI246,Air India,07:10,No
+AI463,Air India,17:50,No
+SG169,SpiceJet,19:15,Yes
+SG344,SpiceJet,19:40,Yes
+IX213,Air India Express,18:35,Yes
+SG412,SpiceJet,12:45,No
+QP223,Akasa Air,11:10,No
+6E556,IndiGo,14:00,No
+IX137,Air India Express,03:30,No
+6E324,IndiGo,19:15,Yes
+AI556,Air India,22:50,Yes
+SG765,SpiceJet,06:10,No
+UK975,Vistara,12:30,No
+IX689,Air India Express,15:20,No
+UK849,Vistara,16:15,No
+SG553,SpiceJet,05:25,No
+SG847,SpiceJet,08:50,Yes
+SG225,SpiceJet,09:35,Yes
+IX417,Air India Express,05:20,No
+6E719,IndiGo,12:35,No
+QP683,Akasa Air,17:20,No
+UK439,Vistara,19:10,Yes
+SG555,SpiceJet,02:15,No
+UK952,Vistara,10:05,No
+IX876,Air India Express,12:00,No
+QP962,Akasa Air,14:00,No
+IX386,Air India Express,19:40,Yes
+IX446,Air India Express,12:05,No
+6E328,IndiGo,13:50,No
+AI425,Air India,13:50,No
+UK780,Vistara,23:05,Yes
+6E220,IndiGo,20:45,Yes
+AI194,Air India,20:30,Yes
+6E556,IndiGo,01:50,No
+AI741,Air India,01:30,No
+QP674,Akasa Air,05:05,No
+UK150,Vistara,10:10,No
+IX262,Air India Express,12:15,No
+IX213,Air India Express,03:35,No
+6E837,IndiGo,09:40,No
+SG523,SpiceJet,08:35,Yes
+IX278,Air India Express,15:55,No
+SG923,SpiceJet,18:50,Yes
+IX939,Air India Express,03:20,No
+AI571,Air India,04:20,No
+6E443,IndiGo,08:50,No
+IX248,Air India Express,07:55,No
+SG374,SpiceJet,03:55,No
+6E837,IndiGo,00:50,No
+UK291,Vistara,13:20,No
+6E875,IndiGo,01:10,No
+6E648,IndiGo,22:20,Yes
+AI556,Air India,01:25,No
+IX278,Air India Express,00:15,No
+IX883,Air India Express,10:35,No
+6E838,IndiGo,00:30,No
+AI191,Air India,00:40,No
+UK846,Vistara,09:40,No
+SG796,SpiceJet,19:10,Yes
+AI651,Air India,10:30,No
+QP331,Akasa Air,10:25,No
+QP993,Akasa Air,13:30,No
+IX984,Air India Express,01:10,No
+UK849,Vistara,14:50,No
+SG344,SpiceJet,10:15,Yes
+QP551,Akasa Air,00:30,No
+SG290,SpiceJet,03:00,No
+AI641,Air India,11:40,No
+6E104,IndiGo,14:20,No
+AI576,Air India,19:15,Yes
+6E652,IndiGo,10:55,No
+QP539,Akasa Air,07:20,No
+SG119,SpiceJet,02:10,No
+SG695,SpiceJet,17:50,Yes
+QP738,Akasa Air,02:25,No
+SG523,SpiceJet,06:40,No
+UK159,Vistara,13:25,No
+SG979,SpiceJet,01:15,No
+IX135,Air India Express,09:35,No
+IX847,Air India Express,05:05,No
+AI536,Air India,07:05,No
+IX569,Air India Express,03:45,No
+AI888,Air India,23:10,Yes
+6E487,IndiGo,13:00,No
+IX984,Air India Express,03:10,No
+UK439,Vistara,14:30,No
+6E294,IndiGo,21:40,Yes
+QP130,Akasa Air,03:45,No
+6E799,IndiGo,23:55,Yes
+SG591,SpiceJet,12:20,No
+QP683,Akasa Air,01:50,No
+QP629,Akasa Air,16:45,No
+SG762,SpiceJet,12:40,No
+AI185,Air India,23:45,Yes
+AI589,Air India,17:25,No
+UK248,Vistara,08:35,No
+IX135,Air India Express,00:50,No
+IX536,Air India Express,14:40,No
+AI666,Air India,14:35,No
+UK291,Vistara,09:50,No
+6E999,IndiGo,22:15,Yes
+AI651,Air India,00:45,No
+IX388,Air India Express,00:25,No
+AI641,Air India,18:15,Yes
+AI484,Air India,17:25,No
+IX215,Air India Express,09:20,No
+SG796,SpiceJet,11:20,No
+UK780,Vistara,01:55,No
+6E838,IndiGo,23:55,Yes
+6E354,IndiGo,13:30,No
+AI246,Air India,22:45,Yes
+QP962,Akasa Air,21:40,Yes
+QP331,Akasa Air,11:55,No
+AI443,Air India,13:40,No
+AI191,Air India,12:20,No
+IX453,Air India Express,12:00,No
+IX148,Air India Express,16:15,No
+AI837,Air India,09:45,No
+IX220,Air India Express,22:45,Yes
+SG412,SpiceJet,05:25,No
+UK486,Vistara,15:55,No
+AI398,Air India,04:20,No
+IX689,Air India Express,07:50,No
+6E794,IndiGo,06:40,No
+QP836,Akasa Air,22:20,Yes
+6E726,IndiGo,23:50,Yes
+IX908,Air India Express,10:30,No
+SG414,SpiceJet,04:20,No
+SG485,SpiceJet,19:15,Yes
+6E624,IndiGo,10:45,No
+AI741,Air India,02:15,No
+SG374,SpiceJet,22:50,Yes
+6E941,IndiGo,11:50,No
+AI185,Air India,12:15,No
+QP414,Akasa Air,11:05,No
+AI571,Air India,16:55,No
+SG765,SpiceJet,18:50,Yes
+QP683,Akasa Air,07:30,No
+AI194,Air India,08:20,No
+UK780,Vistara,14:50,No
+UK784,Vistara,13:00,No
+6E837,IndiGo,23:25,Yes
+AI194,Air India,18:40,Yes
+SG307,SpiceJet,03:10,No
+IX569,Air India Express,10:55,No
+SG169,SpiceJet,14:20,No
+IX137,Air India Express,21:40,Yes
+UK989,Vistara,15:35,No
+6E196,IndiGo,01:05,No
+IX883,Air India Express,00:30,No
+SG555,SpiceJet,20:45,Yes
+6E342,IndiGo,06:55,No
+AI860,Air India,10:15,No
+6E388,IndiGo,06:45,No
+UK952,Vistara,06:40,No
+6E556,IndiGo,16:40,No
+6E443,IndiGo,05:35,No
+6E957,IndiGo,22:20,Yes
+AI281,Air India,16:20,No
+IX417,Air India Express,11:20,No
+QP747,Akasa Air,19:15,Yes
+AI914,Air India,03:20,No
+SG412,SpiceJet,20:30,Yes
+AI246,Air India,11:30,No
+6E769,IndiGo,01:50,No
+SG412,SpiceJet,23:15,Yes
+SG632,SpiceJet,16:30,No
+AI959,Air India,00:30,No
+QP768,Akasa Air,19:40,Yes
+6E305,IndiGo,20:30,Yes
+QP537,Akasa Air,06:20,No
+AI116,Air India,05:40,No
+QP857,Akasa Air,15:55,No
+AI337,Air India,07:20,No
+6E294,IndiGo,13:40,No
+6E324,IndiGo,15:20,No
+6E999,IndiGo,13:30,No
+SG967,SpiceJet,12:25,No
+AI572,Air India,11:00,No
+6E719,IndiGo,05:40,No
+IX220,Air India Express,04:30,No
+IX248,Air India Express,06:55,No
+IX259,Air India Express,11:55,No
+QP222,Akasa Air,09:15,No
+SG216,SpiceJet,14:00,No
+UK150,Vistara,05:35,No
+6E957,IndiGo,05:05,No
+6E101,IndiGo,20:25,Yes
+UK700,Vistara,10:35,No
+IX906,Air India Express,02:45,No
+6E424,IndiGo,10:15,No
+UK291,Vistara,16:50,No
+6E793,IndiGo,06:25,No
+QP537,Akasa Air,12:40,No
+IX135,Air India Express,02:00,No
+AI589,Air India,17:25,No
+IX569,Air India Express,22:50,Yes
+6E104,IndiGo,02:10,No
+6E726,IndiGo,22:30,Yes
+6E388,IndiGo,11:30,No
+SG169,SpiceJet,23:55,Yes
+UK628,Vistara,00:40,No
+AI641,Air India,18:15,Yes
+AI281,Air India,11:55,No
+SG995,SpiceJet,14:15,No
+QP159,Akasa Air,08:35,No
+SG446,SpiceJet,09:30,Yes
+6E793,IndiGo,07:05,No
+6E328,IndiGo,18:15,Yes
+AI554,Air India,16:55,No
+IX186,Air India Express,22:25,Yes
+IX137,Air India Express,02:50,No
+AI443,Air India,11:45,No
+SG216,SpiceJet,16:15,No
+QP283,Akasa Air,03:50,No
+IX536,Air India Express,12:15,No
+SG973,SpiceJet,07:55,No
+UK488,Vistara,01:50,No
+6E294,IndiGo,10:55,No
+AI191,Air India,13:50,No
+AI911,Air India,01:30,No
+SG553,SpiceJet,22:45,Yes
+6E648,IndiGo,14:35,No
+6E934,IndiGo,14:30,No
+QP747,Akasa Air,05:25,No
+UK607,Vistara,02:40,No
+UK780,Vistara,19:10,Yes
+AI407,Air India,23:45,Yes
+SG412,SpiceJet,09:30,Yes
+SG225,SpiceJet,10:55,Yes
+QP130,Akasa Air,23:40,Yes
+AI194,Air India,00:20,No
+SG796,SpiceJet,17:20,No
+IX883,Air India Express,19:35,Yes
+QP674,Akasa Air,07:35,No
+AI819,Air India,05:35,No
+UK248,Vistara,03:55,No
+IX668,Air India Express,05:00,No
+AI911,Air India,20:30,Yes
+UK629,Vistara,16:50,No
+6E794,IndiGo,05:40,No
+SG374,SpiceJet,11:05,No
+SG973,SpiceJet,22:50,Yes
+QP263,Akasa Air,15:55,No
+AI101,Air India,16:25,No
+SG290,SpiceJet,04:20,No
+AI914,Air India,08:15,No
+UK245,Vistara,10:55,No
+AI576,Air India,05:15,No
+6E649,IndiGo,13:55,No
+IX520,Air India Express,17:25,No
+IX673,Air India Express,11:20,No
+6E104,IndiGo,11:20,No
+UK747,Vistara,01:05,No
+IX537,Air India Express,15:40,No
+IX883,Air India Express,04:05,No
+6E793,IndiGo,15:10,No
+SG412,SpiceJet,21:40,Yes
+UK607,Vistara,11:10,No
+UK989,Vistara,14:35,No
+IX248,Air India Express,05:05,No
+SG979,SpiceJet,15:50,No
+SG216,SpiceJet,16:25,No
+AI666,Air India,15:55,No
+QP159,Akasa Air,02:10,No
+6E562,IndiGo,18:35,Yes
+SG307,SpiceJet,01:10,No
+SG555,SpiceJet,06:55,No
+SG798,SpiceJet,09:10,Yes
+AI554,Air India,03:00,No
+IX906,Air India Express,10:45,No
+AI387,Air India,11:50,No
+6E563,IndiGo,07:45,No
+QP311,Akasa Air,10:20,No
+AI837,Air India,22:55,Yes
+6E648,IndiGo,19:20,Yes
+AI571,Air India,14:55,No
+QP223,Akasa Air,22:05,Yes
+IX417,Air India Express,01:50,No
+SG797,SpiceJet,08:20,Yes
+AI589,Air India,11:45,No
+UK925,Vistara,23:25,Yes
+IX831,Air India Express,05:25,No
+AI571,Air India,03:35,No
+6E799,IndiGo,13:30,No
+QP537,Akasa Air,23:55,Yes
+AI463,Air India,23:25,Yes
+6E838,IndiGo,18:35,Yes
+QP738,Akasa Air,04:30,No
+SG332,SpiceJet,20:45,Yes
+6E941,IndiGo,07:05,No
+UK486,Vistara,05:05,No
+QP331,Akasa Air,13:50,No
+QP888,Akasa Air,10:15,No
+QP290,Akasa Air,08:45,No
+AI837,Air India,23:50,Yes
+UK452,Vistara,07:20,No
+SG936,SpiceJet,19:15,Yes
+AI253,Air India,08:10,No
+AI443,Air India,22:05,Yes
+AI191,Air India,07:40,No
+IX569,Air India Express,22:15,Yes
+UK989,Vistara,04:20,No
+QP563,Akasa Air,09:10,No
+SG555,SpiceJet,21:40,Yes
+UK780,Vistara,07:20,No
+AI914,Air India,19:40,Yes
+AI651,Air India,21:40,Yes
+UK159,Vistara,13:50,No
+UK299,Vistara,03:55,No
+QP738,Akasa Air,10:35,No
+UK488,Vistara,17:25,No
+SG374,SpiceJet,01:50,No
+AI919,Air India,21:35,Yes
+QP537,Akasa Air,11:20,No
+SG717,SpiceJet,15:35,No
+IX220,Air India Express,12:40,No
+UK747,Vistara,03:50,No
+AI116,Air India,05:30,No
+SG119,SpiceJet,14:40,No
+SG216,SpiceJet,01:05,No
+SG607,SpiceJet,14:20,No
+IX386,Air India Express,03:20,No
+AI983,Air India,11:35,No
+SG169,SpiceJet,13:20,No
+IX906,Air India Express,10:30,No
+IX689,Air India Express,09:35,No
+SG798,SpiceJet,11:45,No
+SG484,SpiceJet,20:30,Yes
+QP888,Akasa Air,15:35,No
+AI571,Air India,01:40,No
+6E388,IndiGo,23:45,Yes
+SG479,SpiceJet,14:20,No
+SG193,SpiceJet,08:50,Yes
+QP223,Akasa Air,11:55,No
+6E563,IndiGo,07:55,No
+IX883,Air India Express,07:10,No
+6E648,IndiGo,19:25,Yes
+AI554,Air India,02:10,No
+AI554,Air India,03:50,No
+SG307,SpiceJet,02:25,No
+IX892,Air India Express,19:10,Yes
+SG204,SpiceJet,10:20,Yes
+6E666,IndiGo,11:05,No
+IX453,Air India Express,05:40,No
+IX137,Air India Express,05:00,No
+6E324,IndiGo,17:50,No
+UK452,Vistara,06:30,No
+AI194,Air India,12:05,No
+IX262,Air India Express,16:50,No
+IX281,Air India Express,01:10,No
+6E104,IndiGo,13:10,No
+AI387,Air India,05:50,No
+QP747,Akasa Air,17:25,No
+AI194,Air India,23:40,Yes
+UK912,Vistara,03:50,No
+IX536,Air India Express,14:40,No
+AI556,Air India,03:45,No
+SG973,SpiceJet,03:10,No
+IX386,Air India Express,08:35,No
+IX386,Air India Express,21:55,Yes
+UK912,Vistara,18:00,Yes
+SG303,SpiceJet,07:45,No
+SG674,SpiceJet,20:45,Yes
+6E652,IndiGo,06:40,No
+AI536,Air India,07:50,No
+6E563,IndiGo,16:40,No
+SG969,SpiceJet,11:40,No
+AI253,Air India,05:15,No
+AI911,Air India,17:40,No
+UK291,Vistara,12:20,No
+6E388,IndiGo,03:30,No
+AI407,Air India,18:50,Yes
+IX673,Air India Express,10:05,No
+SG332,SpiceJet,19:10,Yes
+UK925,Vistara,13:10,No
+UK291,Vistara,18:35,Yes
+UK486,Vistara,13:10,No
+AI572,Air India,01:50,No
+UK849,Vistara,00:30,No
+UK952,Vistara,00:30,No
+SG344,SpiceJet,14:15,No
+6E305,IndiGo,19:10,Yes
+AI556,Air India,23:05,Yes
+6E999,IndiGo,17:05,No
+SG414,SpiceJet,12:40,No
+6E563,IndiGo,12:55,No
+UK439,Vistara,07:45,No
+SG414,SpiceJet,22:20,Yes
+UK299,Vistara,19:00,Yes
+SG204,SpiceJet,02:15,No
+QP683,Akasa Air,07:05,No
+AI641,Air India,21:55,Yes
+UK471,Vistara,05:55,No
+SG307,SpiceJet,16:55,No
+UK488,Vistara,11:40,No
+AI802,Air India,12:55,No
+AI914,Air India,18:00,Yes
+IX278,Air India Express,07:25,No
+AI641,Air India,13:40,No
+QP688,Akasa Air,11:45,No
+QP414,Akasa Air,08:35,No
+SG796,SpiceJet,02:25,No
+QP836,Akasa Air,14:00,No
+IX137,Air India Express,10:05,No
+AI281,Air India,16:35,No
+IX876,Air India Express,05:15,No
+UK784,Vistara,17:35,No
+SG479,SpiceJet,20:45,Yes
+AI919,Air India,12:10,No
+QP223,Akasa Air,21:40,Yes
+IX186,Air India Express,17:25,No
+IX831,Air India Express,22:20,Yes
+UK975,Vistara,13:20,No
+6E838,IndiGo,17:10,No
+IX892,Air India Express,16:30,No
+SG973,SpiceJet,18:00,Yes
+QP738,Akasa Air,00:40,No
+UK245,Vistara,11:50,No
+SG973,SpiceJet,08:45,Yes
+6E858,IndiGo,11:35,No
+6E565,IndiGo,15:55,No
+6E324,IndiGo,09:40,No
+6E424,IndiGo,23:25,Yes
+SG622,SpiceJet,13:30,No
+SG332,SpiceJet,13:40,No
+AI253,Air India,15:45,No
+QP159,Akasa Air,19:10,Yes
+6E443,IndiGo,06:40,No
+UK245,Vistara,11:55,No
+UK780,Vistara,06:30,No
+SG485,SpiceJet,14:15,No
+6E991,IndiGo,12:50,No
+IX135,Air India Express,13:10,No
+6E719,IndiGo,15:45,No
+QP537,Akasa Air,13:15,No
+6E388,IndiGo,17:35,No
+SG797,SpiceJet,18:00,Yes
+IX386,Air India Express,09:20,No
+QP688,Akasa Air,01:50,No
+6E388,IndiGo,08:35,No
+IX148,Air India Express,22:50,Yes
+UK925,Vistara,22:15,Yes
+SG104,SpiceJet,20:15,Yes
+IX417,Air India Express,08:00,No
+UK486,Vistara,09:10,No
+AI756,Air India,01:50,No
+IX831,Air India Express,21:20,Yes
+6E562,IndiGo,05:00,No
+QP629,Akasa Air,20:25,Yes
+SG798,SpiceJet,09:40,Yes
+UK245,Vistara,11:20,No
+IX984,Air India Express,21:20,Yes
+SG169,SpiceJet,12:15,No
+UK784,Vistara,23:55,Yes
+AI554,Air India,00:10,No
+QP331,Akasa Air,17:25,No
+6E624,IndiGo,21:55,Yes
+SG798,SpiceJet,14:00,No
+QP283,Akasa Air,11:30,No
+AI185,Air India,01:30,No
+6E991,IndiGo,21:55,Yes
+UK700,Vistara,08:00,No
+SG307,SpiceJet,19:10,Yes
+6E649,IndiGo,04:20,No
+AI253,Air India,01:40,No
+SG303,SpiceJet,10:30,Yes
+QP747,Akasa Air,01:25,No
+QP962,Akasa Air,12:35,No
+SG995,SpiceJet,22:20,Yes
+IX536,Air India Express,21:55,Yes
+6E342,IndiGo,12:00,No
+AI802,Air India,18:15,Yes
+AI191,Air India,12:35,No
+6E858,IndiGo,04:40,No
+AI741,Air India,00:20,No
+QP683,Akasa Air,19:00,Yes
+AI571,Air India,02:45,No
+UK780,Vistara,07:30,No
+6E424,IndiGo,16:10,No
+SG995,SpiceJet,14:10,No
+IX892,Air India Express,15:40,No
+IX563,Air India Express,04:25,No
+6E101,IndiGo,10:45,No
+IX137,Air India Express,12:55,No
+AI911,Air India,11:05,No
+AI398,Air India,03:30,No
+SG119,SpiceJet,21:15,Yes
+SG797,SpiceJet,17:20,No
+IX386,Air India Express,10:30,No
+UK439,Vistara,22:45,Yes
+6E837,IndiGo,19:40,Yes
+UK452,Vistara,02:30,No
+SG307,SpiceJet,07:55,No
+AI756,Air India,04:55,No
+QP688,Akasa Air,10:30,No
+6E794,IndiGo,02:15,No
+IX281,Air India Express,20:45,Yes
+AI194,Air India,14:35,No
+6E104,IndiGo,07:05,No
+AI398,Air India,16:50,No
+AI572,Air India,16:30,No
+AI911,Air India,18:00,Yes
+UK628,Vistara,12:50,No
+IX262,Air India Express,06:20,No
+6E793,IndiGo,11:45,No
+6E991,IndiGo,13:55,No
+UK486,Vistara,13:40,No
+AI797,Air India,17:05,No
+QP283,Akasa Air,18:15,Yes
+IX537,Air India Express,22:45,Yes
+SG414,SpiceJet,09:05,Yes
+AI860,Air India,20:45,Yes
+6E819,IndiGo,01:05,No
+IX668,Air India Express,08:35,No
+SG303,SpiceJet,23:25,Yes
+AI310,Air India,04:05,No
+SG225,SpiceJet,17:40,No
+AI323,Air India,07:45,No
+IX453,Air India Express,10:55,No
+SG303,SpiceJet,23:05,Yes
+AI959,Air India,14:20,No
+AI837,Air India,09:40,No
+AI756,Air India,15:20,No
+UK488,Vistara,04:05,No
+IX215,Air India Express,04:40,No
+SG798,SpiceJet,15:25,No
+QP222,Akasa Air,13:20,No
+AI797,Air India,11:20,No
+SG699,SpiceJet,13:50,No
+6E565,IndiGo,03:20,No
+IX883,Air India Express,05:25,No
+UK846,Vistara,02:45,No
+SG969,SpiceJet,07:10,No
+UK299,Vistara,15:40,No
+AI116,Air India,23:25,Yes
+QP130,Akasa Air,14:15,No
+AI919,Air India,15:55,No
+IX689,Air India Express,12:20,No
+SG607,SpiceJet,05:15,No
+QP537,Akasa Air,22:20,Yes
+SG553,SpiceJet,09:30,Yes
+SG923,SpiceJet,08:15,Yes
+UK912,Vistara,12:55,No
+AI407,Air India,01:50,No
+AI666,Air India,02:25,No
+UK607,Vistara,13:25,No
+QP263,Akasa Air,01:10,No
+IX906,Air India Express,13:10,No
+SG204,SpiceJet,03:45,No
+6E794,IndiGo,22:30,Yes
+UK150,Vistara,16:55,No
+AI741,Air India,02:40,No
+IX673,Air India Express,05:25,No
+SG695,SpiceJet,22:15,Yes
+6E328,IndiGo,17:55,No
+QP747,Akasa Air,04:30,No
+AI888,Air India,18:35,Yes
+SG979,SpiceJet,04:20,No
+SG699,SpiceJet,11:55,No
+UK747,Vistara,04:25,No
+AI571,Air India,02:40,No
+IX137,Air India Express,18:00,Yes
+UK299,Vistara,03:55,No
+IX569,Air India Express,13:20,No
+6E837,IndiGo,19:15,Yes
+IX213,Air India Express,01:30,No
+AI116,Air India,04:55,No
+AI484,Air India,05:40,No
+IX520,Air India Express,16:15,No
+SG446,SpiceJet,17:55,Yes
+IX417,Air India Express,18:35,Yes
+UK248,Vistara,03:40,No
+SG484,SpiceJet,19:35,Yes
+6E799,IndiGo,13:25,No
+IX668,Air India Express,03:20,No
+SG699,SpiceJet,19:20,Yes
+UK629,Vistara,02:00,No
+AI259,Air India,23:25,Yes
+AI802,Air India,10:25,No
+IX537,Air India Express,09:10,No
+SG967,SpiceJet,16:30,No
+SG798,SpiceJet,05:05,No
+SG484,SpiceJet,06:40,No
+UK628,Vistara,17:40,No
+6E565,IndiGo,15:40,No
+IX446,Air India Express,17:05,No
+UK780,Vistara,04:25,No
+IX908,Air India Express,01:10,No
+6E328,IndiGo,15:50,No
+UK628,Vistara,01:50,No
+AI914,Air India,08:35,No
+SG551,SpiceJet,01:35,No
+IX278,Air India Express,02:40,No
+SG479,SpiceJet,01:50,No
+AI572,Air India,23:55,Yes
+6E354,IndiGo,14:40,No
+QP159,Akasa Air,11:55,No
+IX876,Air India Express,10:05,No
+SG485,SpiceJet,06:10,No
+SG765,SpiceJet,04:30,No
+AI443,Air India,11:55,No
+AI576,Air India,13:30,No
+AI741,Air India,12:40,No
+SG551,SpiceJet,11:55,No
+IX453,Air India Express,03:10,No
+SG104,SpiceJet,20:45,Yes
+QP738,Akasa Air,01:55,No
+UK952,Vistara,08:25,No
+UK784,Vistara,06:05,No
+AI837,Air India,15:45,No
+SG674,SpiceJet,01:40,No
+6E324,IndiGo,06:30,No
+AI576,Air India,22:15,Yes
+6E799,IndiGo,10:30,No
+AI554,Air India,01:30,No
+IX892,Air India Express,06:25,No
+AI860,Air India,19:50,Yes
+SG553,SpiceJet,13:55,No
+6E838,IndiGo,01:25,No
+AI919,Air India,03:30,No
+UK846,Vistara,11:20,No
+6E424,IndiGo,06:40,No
+AI337,Air India,03:40,No
+6E342,IndiGo,06:25,No
+AI556,Air India,14:35,No
+AI888,Air India,21:40,Yes
+SG307,SpiceJet,00:30,No
+IX563,Air India Express,15:15,No
+AI589,Air India,14:50,No
+AI185,Air India,12:00,No
+6E562,IndiGo,17:25,No
+6E793,IndiGo,14:40,No
+IX520,Air India Express,01:05,No
+SG290,SpiceJet,05:25,No
+SG104,SpiceJet,04:20,No
+6E769,IndiGo,03:40,No
+6E991,IndiGo,06:45,No
+SG414,SpiceJet,14:50,No
+6E101,IndiGo,09:40,No
+UK912,Vistara,15:20,No
+QP768,Akasa Air,02:15,No
+6E487,IndiGo,14:20,No
+6E934,IndiGo,16:40,No
+AI407,Air India,03:45,No
+IX569,Air India Express,02:15,No
+AI387,Air India,02:40,No
+SG798,SpiceJet,06:40,No
+AI536,Air India,12:35,No
+AI797,Air India,02:30,No
+IX537,Air India Express,06:10,No
+6E769,IndiGo,22:15,Yes
+SG762,SpiceJet,07:35,No
+6E799,IndiGo,15:55,No
+AI983,Air India,07:55,No
+QP290,Akasa Air,13:50,No
+UK291,Vistara,10:20,No
+IX278,Air India Express,08:35,No
+SG622,SpiceJet,12:35,No
+UK291,Vistara,04:05,No
+UK488,Vistara,03:55,No
+AI554,Air India,13:30,No
+6E354,IndiGo,22:20,Yes
+AI571,Air India,07:35,No
+IX446,Air India Express,22:15,Yes
+AI259,Air India,00:30,No
+AI572,Air India,16:50,No
+QP222,Akasa Air,03:30,No
+IX563,Air India Express,19:10,Yes
+6E104,IndiGo,10:35,No
+AI919,Air India,23:25,Yes
+QP551,Akasa Air,03:30,No
+6E769,IndiGo,16:25,No
+SG332,SpiceJet,01:50,No
+AI983,Air India,07:25,No
+SG435,SpiceJet,05:25,No
+IX453,Air India Express,13:55,No
+AI425,Air India,14:50,No
+UK291,Vistara,23:05,Yes
+UK614,Vistara,14:50,No
+QP683,Akasa Air,08:25,No
+SG446,SpiceJet,10:30,Yes
+SG479,SpiceJet,21:40,Yes
+SG765,SpiceJet,06:20,No
+AI253,Air India,18:50,Yes
+QP738,Akasa Air,11:40,No
+UK614,Vistara,08:20,No
+AI337,Air India,09:30,No
+QP688,Akasa Air,01:10,No
+AI281,Air India,18:50,Yes
+AI651,Air India,01:10,No
+AI536,Air India,18:15,Yes
+UK912,Vistara,16:45,No
+SG412,SpiceJet,15:40,No
+IX892,Air India Express,19:40,Yes
+AI914,Air India,22:15,Yes
+6E624,IndiGo,15:35,No
+AI819,Air India,21:40,Yes
+SG307,SpiceJet,17:20,No
+AI407,Air India,05:15,No
+6E324,IndiGo,14:35,No
+UK780,Vistara,08:00,No
+AI463,Air India,04:25,No
+AI387,Air India,13:20,No
+6E858,IndiGo,14:55,No
+QP836,Akasa Air,16:50,No
+6E794,IndiGo,07:05,No
+AI116,Air India,15:20,No
+SG193,SpiceJet,13:10,No
+AI387,Air India,11:00,No
+QP283,Akasa Air,03:30,No
+SG140,SpiceJet,11:55,No
+QP629,Akasa Air,00:30,No
+SG973,SpiceJet,05:35,No
+UK486,Vistara,12:35,No
+AI951,Air India,04:20,No
+AI819,Air India,04:40,No
+QP747,Akasa Air,14:10,No
+AI959,Air India,11:00,No
+UK784,Vistara,02:10,No
+QP768,Akasa Air,01:10,No
+6E999,IndiGo,19:00,Yes
+SG765,SpiceJet,03:30,No
+6E104,IndiGo,13:30,No
+6E565,IndiGo,06:40,No
+UK150,Vistara,03:50,No
+6E562,IndiGo,07:55,No
+SG435,SpiceJet,02:30,No
+IX816,Air India Express,06:40,No
+IX137,Air India Express,00:40,No
+AI959,Air India,12:35,No
+IX417,Air India Express,21:40,Yes
+QP551,Akasa Air,12:20,No
+AI398,Air India,18:35,Yes
+IX213,Air India Express,15:10,No
+UK614,Vistara,14:20,No
+AI572,Air India,07:05,No
+IX563,Air India Express,12:35,No
+6E196,IndiGo,19:50,Yes
+SG591,SpiceJet,09:10,Yes
+AI571,Air India,11:10,No
+SG622,SpiceJet,19:20,Yes
+SG717,SpiceJet,16:50,No
+AI837,Air India,16:40,No
+6E487,IndiGo,05:25,No
+AI246,Air India,12:20,No
+QP139,Akasa Air,06:40,No
+AI310,Air India,22:15,Yes
+SG412,SpiceJet,22:15,Yes
+IX876,Air India Express,17:25,No
+AI959,Air India,16:30,No
+AI576,Air India,15:55,No
+UK159,Vistara,04:20,No
+AI556,Air India,05:40,No
+SG414,SpiceJet,03:10,No
+UK159,Vistara,19:15,Yes
+IX417,Air India Express,08:10,No
+AI337,Air India,01:10,No
+AI443,Air India,21:20,Yes
+6E649,IndiGo,22:30,Yes
+IX673,Air India Express,04:20,No
+IX536,Air India Express,19:15,Yes
+SG967,SpiceJet,04:40,No
+IX407,Air India Express,08:35,No
+AI194,Air India,19:15,Yes
+IX536,Air India Express,08:10,No
+SG979,SpiceJet,07:25,No
+SG607,SpiceJet,16:50,No
+AI310,Air India,20:45,Yes
+SG435,SpiceJet,04:20,No
+SG797,SpiceJet,06:40,No
+IX906,Air India Express,21:40,Yes
+6E226,IndiGo,02:40,No
+IX689,Air India Express,09:20,No
+IX537,Air India Express,18:15,Yes
+SG553,SpiceJet,01:05,No
+6E858,IndiGo,16:45,No
+UK629,Vistara,00:30,No
+UK628,Vistara,15:50,No
+AI484,Air India,08:15,No
+UK488,Vistara,22:20,Yes
+AI554,Air India,07:55,No
+6E487,IndiGo,11:50,No
+6E819,IndiGo,09:40,No
+IX249,Air India Express,12:20,No
+AI556,Air India,19:40,Yes
+IX831,Air India Express,12:00,No
+6E388,IndiGo,11:20,No
+IX883,Air India Express,14:20,No
+AI194,Air India,21:40,Yes
+AI911,Air India,19:50,Yes
+IX407,Air India Express,04:05,No
+QP683,Akasa Air,11:45,No
+IX831,Air India Express,15:20,No
+IX673,Air India Express,17:25,No
+6E324,IndiGo,06:05,No
+6E562,IndiGo,23:25,Yes
+SG551,SpiceJet,20:30,Yes
+QP331,Akasa Air,01:50,No
+AI185,Air India,18:50,Yes
+SG765,SpiceJet,19:10,Yes
+AI860,Air India,10:25,No
+SG699,SpiceJet,12:35,No
+IX668,Air India Express,14:40,No
+AI756,Air India,11:55,No
+SG140,SpiceJet,20:30,Yes
+SG632,SpiceJet,04:20,No
+UK846,Vistara,12:00,No
+UK607,Vistara,13:50,No
+6E999,IndiGo,15:35,No
+UK747,Vistara,04:25,No
+AI951,Air India,10:30,No
+AI463,Air India,08:50,No
+UK150,Vistara,13:40,No
+AI837,Air India,13:10,No
+AI554,Air India,13:20,No
+AI756,Air India,11:35,No
+SG332,SpiceJet,01:10,No
+SG104,SpiceJet,23:45,Yes
+IX215,Air India Express,01:50,No
+IX563,Air India Express,09:15,No
+6E799,IndiGo,07:20,No
+6E858,IndiGo,01:30,No
+AI425,Air India,13:25,No
+IX417,Air India Express,23:55,Yes
+SG412,SpiceJet,00:30,No
+AI116,Air India,03:55,No
+IX220,Air India Express,07:45,No
+AI443,Air India,01:10,No
+AI572,Air India,15:40,No
+SG414,SpiceJet,06:40,No
+6E991,IndiGo,20:25,Yes
+UK628,Vistara,22:15,Yes
+SG796,SpiceJet,16:50,No
+6E342,IndiGo,13:55,No
+UK452,Vistara,10:15,No
+UK614,Vistara,22:50,Yes
+6E648,IndiGo,06:15,No
+6E649,IndiGo,17:25,No
+UK629,Vistara,10:45,No
+UK975,Vistara,01:10,No
+6E354,IndiGo,07:20,No
+SG717,SpiceJet,04:20,No
+6E666,IndiGo,09:10,No
+UK488,Vistara,17:05,No
+IX906,Air India Express,11:45,No
+AI589,Air India,00:40,No
+QP222,Akasa Air,11:40,No
+AI860,Air India,15:20,No
+AI860,Air India,18:00,Yes
+AI572,Air India,02:40,No
+UK150,Vistara,07:25,No
+AI398,Air India,07:25,No
+6E624,IndiGo,01:25,No
+6E196,IndiGo,08:15,No
+SG414,SpiceJet,16:15,No
+AI741,Air India,23:55,Yes
+6E424,IndiGo,11:35,No
+6E487,IndiGo,11:40,No
+6E793,IndiGo,06:30,No
+AI666,Air India,11:20,No
+AI951,Air India,22:45,Yes
+AI911,Air India,13:30,No
+QP539,Akasa Air,07:55,No
+IX259,Air India Express,12:25,No
+IX537,Air India Express,16:40,No
+SG204,SpiceJet,17:25,No
+IX249,Air India Express,07:55,No
+SG798,SpiceJet,04:30,No
+SG973,SpiceJet,13:15,No
+6E726,IndiGo,04:25,No
+UK784,Vistara,04:30,No
+SG717,SpiceJet,10:30,Yes
+AI951,Air India,06:20,No
+6E226,IndiGo,08:35,No
+6E837,IndiGo,01:25,No
+AI951,Air India,02:25,No
+AI983,Air India,15:35,No
+6E999,IndiGo,06:40,No
+IX446,Air India Express,09:20,Yes
+6E220,IndiGo,07:20,No
+QP563,Akasa Air,23:15,Yes
+SG591,SpiceJet,21:40,Yes
+IX892,Air India Express,05:05,No
+UK248,Vistara,13:50,No
+IX148,Air India Express,09:10,No
+SG923,SpiceJet,19:15,Yes
+SG699,SpiceJet,03:20,No
+QP539,Akasa Air,13:30,No
+IX453,Air India Express,04:25,No
+6E726,IndiGo,23:45,Yes
+6E565,IndiGo,04:25,No
+6E875,IndiGo,14:20,No
+AI572,Air India,12:55,No
+AI259,Air India,01:50,No
+AI919,Air India,08:45,No
+SG332,SpiceJet,06:30,No
+UK488,Vistara,08:25,No
+AI407,Air India,20:45,Yes
+AI425,Air India,10:45,No
+QP688,Akasa Air,03:40,No
+AI919,Air India,06:25,No
+SG923,SpiceJet,04:20,No
+AI589,Air India,03:55,No
+SG798,SpiceJet,22:15,Yes
+6E875,IndiGo,07:40,No
+IX816,Air India Express,22:20,Yes
+IX537,Air India Express,00:30,No
+UK784,Vistara,08:15,No
+6E858,IndiGo,19:15,Yes
+IX816,Air India Express,15:20,No
+QP311,Akasa Air,17:20,No
+AI888,Air India,19:40,Yes
+IX816,Air India Express,05:15,No
+QP551,Akasa Air,14:15,No
+6E819,IndiGo,07:35,No
+6E957,IndiGo,14:35,No
+QP311,Akasa Air,01:50,No
+UK471,Vistara,00:40,No
+SG523,SpiceJet,22:20,Yes
+IX563,Air India Express,12:55,No
+AI589,Air India,05:15,No
+UK628,Vistara,11:40,No
+6E196,IndiGo,12:40,No
+SG485,SpiceJet,01:50,No
+AI463,Air India,19:10,Yes
+6E424,IndiGo,15:35,No
+6E941,IndiGo,11:55,No
+UK614,Vistara,05:40,No
+6E871,IndiGo,05:15,No
+SG699,SpiceJet,16:50,No
+AI116,Air India,03:55,No
+AI919,Air India,18:50,Yes
+6E648,IndiGo,04:25,No
+QP563,Akasa Air,11:45,No
+SG967,SpiceJet,00:30,No
+SG210,SpiceJet,07:10,No
+SG923,SpiceJet,10:45,Yes
+UK912,Vistara,06:55,No
+AI951,Air India,02:10,No
+AI259,Air India,10:20,No
+6E871,IndiGo,18:15,Yes
+AI536,Air India,15:10,No
+SG485,SpiceJet,03:55,No
+QP768,Akasa Air,13:15,No
+IX186,Air India Express,18:35,Yes
+AI911,Air India,02:15,No
+UK439,Vistara,08:50,No
+AI837,Air India,00:40,No
+UK439,Vistara,13:20,No
+UK471,Vistara,12:25,No
+IX407,Air India Express,10:55,No
+IX249,Air India Express,07:50,No
+SG607,SpiceJet,10:15,Yes
+6E793,IndiGo,21:40,Yes
+6E957,IndiGo,15:20,No
+AI741,Air India,05:55,No
+QP311,Akasa Air,11:10,No
+SG435,SpiceJet,15:55,No
+UK299,Vistara,09:40,No
+SG995,SpiceJet,05:25,No
+6E101,IndiGo,13:10,No
+SG210,SpiceJet,18:35,Yes
+IX281,Air India Express,19:15,Yes
+UK452,Vistara,16:40,No
+SG797,SpiceJet,04:30,No
+6E871,IndiGo,06:30,No
+AI572,Air India,22:45,Yes
+6E328,IndiGo,03:20,No
+6E871,IndiGo,05:25,No
+IX537,Air India Express,15:20,No
+AI951,Air India,11:55,No
+AI387,Air India,08:10,No
+IX249,Air India Express,12:15,No
